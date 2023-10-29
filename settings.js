@@ -4,7 +4,7 @@ global.creator = 'Killer'// yourname
 global.MONGO_DB_URI = "mongodb+srv://faliqpro16:kUwGlpaVemdoy6h0@cluster0.508ipsc.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "kingmaosatan@gmail.com" //email
-global.email_password = "qpll zynq khsb pufe" //application password email
+global.email_password = "jwau tebj hjbc bfmu" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
